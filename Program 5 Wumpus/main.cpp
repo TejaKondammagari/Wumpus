@@ -8,11 +8,7 @@
  
  */
 
-/***Mallavarapu:
- * 1) No header information
- * 2) avoid use of Global variables
- * 3) the comments shouldd have details about the parameter s the function uses.
- * ***/
+
 #include <iostream>
 #include <iomanip>   // for setw()
 #include <cctype>    // for toupper()
